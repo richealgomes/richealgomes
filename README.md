@@ -1,5 +1,5 @@
-<h1 align="center">Hello there, I'm Anastacia Richeal Gomes</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h1 align="left" style="font-size: large;padding: 5px;">Hello there, <br> I'm Anastacia Richeal Gomes</h1>
+<h4 align="left" style="padding: 5px; font-size: medium; ">First of all , welcome to my profile. I am a web developer who is still learning. i believe the more we practice, the more we learn . I am a student from business background, for which i do not have any subjects like cse. i began to code because it has always amused me. Ever since i started to learn coding I fell in love with web development. Now i think , I have learnt enough and ready to help people with their projects and the problems they are facing related to making web pages. i am a very hard working person and i believe i can help you out. so feel free to knock me wherever or whenever you want . thank you so much , have a good day.    </h4>
 <img align="right" style="border-radius: 5px; width: 400px;"  src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" alt="" srcset="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richealgomes&label=Profile%20views&color=0e75b6&style=flat" alt="richealgomes" /> </p>
