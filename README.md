@@ -11,6 +11,8 @@
 
 -  I'm now learning **react and back-end**
 
+-  Exploring new technologies and developing software solutions and quick hacks
+
 -  feel free to ask me anything about web development
 
 -  my email address is rae01912334124@gmail.com
