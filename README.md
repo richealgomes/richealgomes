@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/gomesricheal" target="blank"><img src="https://img.shields.io/twitter/follow/gomesricheal?logo=twitter&style=for-the-badge" alt="gomesricheal" /></a> </p>
 
-- 🔭 I’m currently working on **HTML, CSS, JAVASCRIPT, BOOTSTRAP, TAILWIND.**
+-  I have completed learning  **html, CSS, javascript, bootstrap, tailwind and started tp wprk on it.**
 
-- 🌱 I’m currently learning **REACT, BACK-END**
+-  I'm now learning **react, back-end**
 
-- 💬 Ask me  **anything about web development**
+-  feel free to ask me anything about web development
 
-- 📫 Reach me here at **rae01912334124@gmail.com**
+-  my email address is rae01912334124@gmail.com
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gomesricheal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gomesricheal" height="30" width="40" /></a>
 <a href="https://www.facebook.com/richeal2005?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anastacia gomes" height="30" width="40" /></a>
-<a href="https://instagram.com/gomesricheal?igshid=ZDdkNTZiNTM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gomesricheal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gomesricheal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gomesricheal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
