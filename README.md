@@ -9,7 +9,7 @@
 
 -  I have completed learning  **html, CSS, javascript, bootstrap, tailwind and started tp wprk on it.**
 
--  I'm now learning **react, back-end**
+-  I'm now learning **react and back-end**
 
 -  feel free to ask me anything about web development
 
