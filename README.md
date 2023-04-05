@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gomesricheal" target="blank"><img src="https://img.shields.io/twitter/follow/gomesricheal?logo=twitter&style=for-the-badge" alt="gomesricheal" /></a> </p>
 
--  I have completed learning  **html, CSS, javascript, bootstrap, tailwind and started to wprk on it.**
+-  I have completed learning  **html, CSS, javascript, bootstrap, tailwind and started to work on it.**
 
 -  I'm now learning **react and back-end**
 
