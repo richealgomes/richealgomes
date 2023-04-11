@@ -1,4 +1,4 @@
-![logo](https://github.com/richealgomes/richealgomes/blob/main/banner.png)
+![logo](https://github.com/richealgomes/richealgomes/blob/main/git%20banner.png)
 <h1>Anastacia Richeal Gomes</h1>
 <h4 align="left" style="padding: 5px; font-size: medium; ">Hello! I am working as an aspiring web developer mainly focusing on front end development. I'm still gaining knowledge. I believe that practice makes us perfect when it comes to learning. I have always found development-related tasks to be fascinating, therefore I like writing code and using my problem-solving abilities as a result.</h4>
 <br />
